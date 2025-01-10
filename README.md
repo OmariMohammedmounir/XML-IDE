@@ -15,15 +15,13 @@ Validation:
 Validate XML files against XSD (XML Schema Definition).
 Validate XML files against DTD (Document Type Definition).
 Check if the XML is well-formed.
-Transformation:
 
-Transform XML documents into HTML using XSLT.
-Font Size Customization:
+Transformation:Transform XML documents into HTML using XSLT.
 
-Adjust font size for better readability.
-Element Search:
+Font Size Customization:Adjust font size for better readability.
 
-Search for specific elements or nodes within an XML document using DOM.
+Element Search:Search for specific elements or nodes within an XML document using DOM.
+
 Technologies Used
 JavaFX: For building the user interface.
 JDOM: For XML parsing and manipulation.
@@ -32,6 +30,7 @@ Java DOM and SAX API: For XML operations.
 File I/O: For reading and writing files.
 JavaFX Alerts: For user notifications.
 Java Swing JOptionPane: For quick pop-up messages.
+
 How It Works
 Application Initialization:
 
